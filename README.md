@@ -35,5 +35,6 @@ You just got your first Pull Request (PR) merged!
 - Shubham Kushwaha - @ericliclair
 
 - Ankit Raj - GitHub Enthusiasts.
+- Shaury Srivastav - open source enthusiast 👾💻
 
 - <Add your name above this line in the same pattern!>
